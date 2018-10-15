@@ -11,4 +11,4 @@ for development mode
 
 for production mode 
 
-``` npm build ```
+``` npm run-script build ```
